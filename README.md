@@ -21,6 +21,7 @@ What are its advantages ?
 - It works with taiHEN under henkaku, h-encore or enso
 - When SD2VITA is removed or not working and configured to be redirected to ux0, memcard/internal is by default mounted to ux0
 - Compatible with 3.60, 3.65, 3.67 and 3.68
+- Compatible with 3.69 and 3.70 --update by lzyzizi
 
 What to improve then ?
 - Add 3.65-3.67-3.68 support: DONE thanks to TheFloW but maybe it would be better to autoresolve imports by .yml than by get_module_export function or in future create a tool to batch resolve
